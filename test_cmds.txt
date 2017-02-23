@@ -1,0 +1,1 @@
+python npc2batman /path/to/input.csv /another/path/to/out.txt
