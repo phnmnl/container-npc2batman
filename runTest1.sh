@@ -6,7 +6,7 @@ wget https://raw.githubusercontent.com/jianlianggao/npc2batman/master/test_data/
 #run npc2batman.py
 cd /usr/local/bin
 
-./npc2batman.sh npc2batman_test.csv npc2batman_output.txt
+npc2batman.sh npc2batman_test.csv npc2batman_output.txt
 
 file_name="npc2batman_output.txt"
 if [ -f "$file_name" ]; then 
